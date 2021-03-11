@@ -61,7 +61,7 @@ const LeagueDetail = () => {
                         <FontAwesomeIcon icon={faYoutube} />
                     </a>
                 </div>
-                
+                </Container>
             </Container>
         </div>
 
