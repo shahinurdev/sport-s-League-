@@ -3,7 +3,7 @@ import League from '../League/League';
 import './Home.css';
 const Home = () => {
     const [leagues, setLeagues] = useState([]);
-    const leaguesSlice = leagues.slice(40, 160);
+    const leaguesSlice = leagues.slice(15, 30);
 
     useEffect(() => {
         fetch('https://www.thesportsdb.com/api/v1/json/1/all_leagues.php')
