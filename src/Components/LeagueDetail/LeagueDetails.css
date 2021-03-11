@@ -1,0 +1,46 @@
+
+.leagueDetailsDiv{
+    background-color: #0E0A2A;
+    padding-top: 30px;
+}
+.leagueDetailsContainer{
+    background-color: #3A42FF;
+    padding:20px;
+    border-radius: 10px;
+    color: #FFFFFF
+}
+.leagueDetailsText{
+    color: #FFFFFF;
+    padding-top:30px;
+}
+.socialIcon{
+    text-align: center;
+   
+}
+.socialIcon a{
+    cursor: pointer;
+    text-align: center;
+    margin: 15px;
+    font-size: 50px;
+    display: inline-block;
+    width: 8%;
+}
+.league-banner{
+    background-image: url(./Banner/national-football-stadium-port-moresby-png-facts-stadium-png-544_276.png);
+    background-repeat: no-repeat;
+    background-position: center;
+   background-size: cover;
+   height: 300px;
+   margin-bottom: 20px;
+}
+.league-banner-img img {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 30px;
+    opacity: 1;
+}
+
+
+   
